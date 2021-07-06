@@ -103,7 +103,7 @@ $('#yes').click(function() {
         html: true,
         width: 900,
         padding: '3em',
-        html: "<input type='text' class='form-control' id='txtReason' placeholder='Điều em muốn nói?'>",
+        html: "<input type='text' class='form-control' id='txtReason' placeholder='Nhập điều em muốn nói?'>",
         background: '#fff url("img/iput-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
